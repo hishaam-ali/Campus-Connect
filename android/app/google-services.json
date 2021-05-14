@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333476794309",
+    "firebase_url": "https://campconnectchat.firebaseio.com",
+    "project_id": "campconnectchat",
+    "storage_bucket": "campconnectchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333476794309:android:b433b30190467c3de685ac",
+        "android_client_info": {
+          "package_name": "co.hishaam.campusconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333476794309-s0nh2lisjh7d6oqut64hm00cj2hoa4jf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.hishaam.campusconnect",
+            "certificate_hash": "957265ec0eed5d711d8649838361c5e266770f0e"
+          }
+        },
+        {
+          "client_id": "333476794309-qrs94296hs875fasju88cbjl3f5q5til.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4FlpOme4pufs7agY9V65AAvK3O3qKbSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333476794309-qrs94296hs875fasju88cbjl3f5q5til.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
