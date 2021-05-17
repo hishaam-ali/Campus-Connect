@@ -14,10 +14,7 @@ Backend handled by Firebase
 ## Features
 
 1. Sign in / Sign up with email authentication
-2. Search options with filters such as
-   2.1 Year of pass out
-   2.2 Branch
-   2.3 Club
+2. Search options with filters : Year of passout, Branch, Club affinity
 3. Follow users
 4. View profile
 5. Feed page
