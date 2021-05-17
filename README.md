@@ -1,16 +1,33 @@
-# campusconnect
+# Campus Connect
 
-A new Flutter application.
+An Intra Campus Social Networking Platform.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+Campus Connect is an intra campus social networking platform where students can find peers who share similiar interests. The platform serves as a one stop portal for information regarding the various activities in the college.
 
-A few resources to get you started if this is your first Flutter project:
+## Development
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Frontend using Flutter framework
+Backend handled by Firebase
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+1. Sign in / Sign up with email authentication
+2. Search options with filters such as
+   2.1 Year of pass out
+   2.2 Branch
+   2.3 Club
+3. Follow users
+4. View profile
+5. Feed page
+6. Create posts
+7. Messaging
+8. Edit your profile
+9. View upcoming events, current news and announcements of your college
+
+### Developers
+
+Hishaam Ali
+Div Nandan
+Abhiram S
