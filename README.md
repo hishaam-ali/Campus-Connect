@@ -28,3 +28,7 @@ Backend handled by Firebase
 Hishaam Ali<br/>
 Div Nandan<br/>
 Abhiram S
+
+### Screenshots
+
+<img src="screenshots/1.jpg" width=100>
