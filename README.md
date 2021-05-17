@@ -29,6 +29,10 @@ Hishaam Ali<br/>
 Div Nandan<br/>
 Abhiram S
 
-### Screenshots
+## Screenshots
 
-<img src="screenshots/1.jpg" width=100>
+<img src="screenshots/1.JPG" width="45%"> </img>
+<img src="screenshots/2.JPG" width="45%"> </img>
+<img src="screenshots/3.JPG" width="45%"> </img>
+<img src="screenshots/4.JPG" width="45%"> </img>
+<img src="screenshots/5.JPG" width="45%"> </img>
