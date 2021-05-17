@@ -8,7 +8,7 @@ Campus Connect is an intra campus social networking platform where students can 
 
 ## Development
 
-Frontend using Flutter framework
+Frontend using Flutter framework<br/>
 Backend handled by Firebase
 
 ## Features
@@ -26,8 +26,8 @@ Backend handled by Firebase
 8. Edit your profile
 9. View upcoming events, current news and announcements of your college
 
-### Developers
+## Developers
 
-Hishaam Ali
-Div Nandan
+Hishaam Ali<br/>
+Div Nandan<br/>
 Abhiram S
